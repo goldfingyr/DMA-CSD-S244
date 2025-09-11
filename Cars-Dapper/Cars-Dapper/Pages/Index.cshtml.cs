@@ -27,7 +27,7 @@ using Cars_Dapper.Models;
 using Dapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 
 namespace Cars_Dapper.Pages
 {

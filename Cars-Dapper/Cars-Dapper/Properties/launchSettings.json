@@ -5,7 +5,7 @@
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "ConnectionString": "Data Source=localhost;Persist Security Info=True;User ID=sa;Password=@12tf56so"
+        "ConnectionString": "Data Source=localhost;User ID=sa;Password=@12tf56so;Trust Server Certificate=True"
       },
       "dotnetRunMessages": true,
       "applicationUrl": "http://localhost:5247"
